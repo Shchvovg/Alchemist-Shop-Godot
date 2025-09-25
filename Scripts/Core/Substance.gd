@@ -1,5 +1,5 @@
 class_name Substance
-extends RefCounted
+extends Resource
 
 var _properties : Dictionary[Property, int]
 var _physical_state : GlobalEnums.SubstanceState = GlobalEnums.SubstanceState.RAW
