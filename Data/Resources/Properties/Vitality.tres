@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="Property" load_steps=2 format=3 uid="uid://carr3ccj8sncl"]
+
+[ext_resource type="Script" uid="uid://522kq5mvxrph" path="res://Scripts/Resources/Property.gd" id="1_6mvsg"]
+
+[resource]
+script = ExtResource("1_6mvsg")
+name = "Vitality"
+description = ""
+color = Color(0.863932, 0.149956, 0.213975, 1)
+metadata/_custom_type_script = "uid://522kq5mvxrph"
