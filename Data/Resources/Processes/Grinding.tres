@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="Process" load_steps=2 format=3 uid="uid://mhpwy6dosmjf"]
+
+[ext_resource type="Script" uid="uid://3x6xj612voif" path="res://Scripts/Resources/Process.gd" id="1_nk3jw"]
+
+[resource]
+script = ExtResource("1_nk3jw")
+name = "Grinding"
+duration = 3.0
+required_input_state = Array[int]([])
+output_state = 0
+unlocked = false
+metadata/_custom_type_script = "uid://3x6xj612voif"
